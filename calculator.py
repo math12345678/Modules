@@ -1,4 +1,4 @@
-print("Advanced Calculator")
+print("Advanced Calculator\n")
 import math_operations
 import comparison
 import additional_operators
